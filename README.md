@@ -12,4 +12,5 @@ A tiny, Python game that pits you against the computer in a classic Rock-Paper-S
 # Usage
 1. Run:
    ```bash
+
    python rock_paper_scissor.py
